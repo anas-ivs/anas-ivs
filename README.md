@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anasothman-myy
+- 👋 Hi, I’m @anas-ivs
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate.
+
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=anas-ivs.visitor-badge)
