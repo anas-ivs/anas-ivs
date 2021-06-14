@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anas-ivs
 - 🌱 I’m currently learning.
 
-
+[![anas-ivs GitHub stats](https://github-readme-stats.vercel.app/api?username=anas-ivs)](https://github.com/anas-ivs/github-readme-stats)
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=anas-ivs.visitor-badge)
 <!---
