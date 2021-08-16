@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anas-ivs
-- 🌱 I’m currently learning.
+- 🌱 Saya budak baru belajar. 
 
 [![anas-ivs GitHub stats](https://github-readme-stats.vercel.app/api?username=anas-ivs)](https://github.com/anas-ivs/github-readme-stats)
 
